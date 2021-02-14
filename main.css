@@ -1,1 +1,16 @@
+/* Russell Goychayev
+IntroCS pd7 sec11
+HW05 -- Stuylin'
+2021-02-14 */
 
+h1 {
+  background-color: red;
+}
+
+a {
+  font: 1.2em "Fira Sans", sans-serif;
+}
+
+ul {
+  border: 1rem solid;
+}
